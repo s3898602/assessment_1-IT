@@ -1,1 +1,22 @@
-area
+
+body{
+	background-color:yellow;
+	color:black;
+
+	font-family: Lucida Handwriting, Cursive;
+	font-size:18px;
+	font-weight:normal;
+	font: normal 18px Lucida Handwriting, Cursive;
+
+	line-height:1.8em;
+	margin:0;
+}
+
+
+}
+
+
+
+.Interest in IT{
+	font-size:20px;
+}
